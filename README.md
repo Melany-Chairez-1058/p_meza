@@ -30,7 +30,7 @@
 ![Captura de pantalla 2024-11-25 122413](https://github.com/user-attachments/assets/e5e46a59-1eac-46c7-8d03-5cb900a8c839)
 ![Captura de pantalla 2024-11-25 152634](https://github.com/user-attachments/assets/5c07f8cc-8761-4474-a449-66f26d852dc6)
 ![Captura de pantalla 2024-11-25 152708](https://github.com/user-attachments/assets/aa58ed88-23cd-4ce3-aacd-874a0da89443)
-![Captura de pantalla 2024-11-25 152725](https://github.com/user-attachments/assets/17235b0a-0573-4c6b-9272-905b392c3bd8)
+![Captura de pantalla 2024-11-25 160557](https://github.com/user-attachments/assets/bd399dd7-bcdf-4266-8597-c74ffe23b077)
 ![Captura de pantalla 2024-11-25 153356](https://github.com/user-attachments/assets/761b00ad-352b-4c43-a02c-8ad8f77c3478)
 ![Captura de pantalla 2024-11-25 152911](https://github.com/user-attachments/assets/0b9a51ce-0b25-46c9-8db0-956d7db7473d)
 # Carrito
@@ -41,5 +41,12 @@
 ![Captura de pantalla 2024-11-25 154250](https://github.com/user-attachments/assets/9f72c296-4a7f-435c-8e2e-72a6b8f0dcde)
 # Cerrar Sesion
 ![Captura de pantalla 2024-11-25 154309](https://github.com/user-attachments/assets/5a5a23d7-c35f-4ef3-83e1-dce0769f37a2)
-
+# Base de datos
+![Captura de pantalla 2024-11-25 155611](https://github.com/user-attachments/assets/5cd59ad5-0f3d-4a11-8c8c-00e1451e0c4c)
+![Captura de pantalla 2024-11-25 155628](https://github.com/user-attachments/assets/ceb43b6e-9e04-4fa7-830b-99c9edab1db7)
+![Captura de pantalla 2024-11-25 155640](https://github.com/user-attachments/assets/391e5273-02ff-4b05-969f-6ae05fce2d0e)
+![Captura de pantalla 2024-11-25 155808](https://github.com/user-attachments/assets/940627b4-c6fa-4de0-81cc-dfd025bdac29)
+![Captura de pantalla 2024-11-25 155831](https://github.com/user-attachments/assets/3936a6e6-29da-4c8d-b99f-37b600fcd91e)
+![Captura de pantalla 2024-11-25 160458](https://github.com/user-attachments/assets/4a0194f5-6dd7-428f-9dcd-7c1402feea72)
+![Captura de pantalla 2024-11-25 160509](https://github.com/user-attachments/assets/b1c15d13-33e8-4516-aeeb-0c44d6da07c1)
 
