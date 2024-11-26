@@ -1,7 +1,8 @@
 # El Jardin Del Cielo
 # Index
 ![Captura de pantalla 2024-11-25 120902](https://github.com/user-attachments/assets/1ef5c97e-4a77-498c-b658-02026d4849fe)
-![Captura de pantalla 2024-11-25 120902](https://github.com/user-attachments/assets/47c868fd-e5cb-411d-9d59-6eff19a57735)
+![Captura de pantalla 2024-11-25 120924](https://github.com/user-attachments/assets/925ffc13-3629-4c00-a441-0b746dae3fd1)
+
 ![Captura de pantalla 2024-11-25 120955](https://github.com/user-attachments/assets/ea6079f7-c7e9-435a-b61f-1584dadd1119)
 # Productos
 ![Captura de pantalla 2024-11-25 121338](https://github.com/user-attachments/assets/4bd11b4b-06d0-42e7-bbd2-04e561c405c4)
